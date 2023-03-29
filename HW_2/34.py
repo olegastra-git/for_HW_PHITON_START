@@ -7,3 +7,4 @@ if all([f(i) == t for i in st]):
     print('Парам пам-пам')
 else:
     print('Пам парам')
+    
